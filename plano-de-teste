@@ -1,0 +1,6 @@
+# Plano de Teste - Adopet HUB
+
+**Objetivo:** Garantir que o fluxo de adoção e a regra de restrição de perfil funcionem conforme esperado.
+**Escopo:** Módulo de Adoção, Módulo de Usuários e Animais.
+**Tipos de Teste:** Testes Unitários (JUnit), BDD (Cucumber), Testes Manuais (Roteiros) e Teste de Usabilidade.
+**Critérios de Aceite:** Cobertura de código >= 80% nos Services. Nenhuma solicitação de adoção deve ser aprovada indevidamente caso o usuário tenha histórico de devolução.
